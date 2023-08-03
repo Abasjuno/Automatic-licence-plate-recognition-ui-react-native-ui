@@ -6,6 +6,8 @@
  ALPR is an image processing system which is used to identify vehicles by their license plate using Optical Character Recognition.
 
   </p>
+<p>Real World App made with React native. Contains simple authentication,Ai powerd backend and much more!
+
 </div>
 
 
