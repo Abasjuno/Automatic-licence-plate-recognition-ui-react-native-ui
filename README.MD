@@ -10,7 +10,7 @@
 
 </div>
 
-* [![Next][Next.js]][Next-url]v
+* [![Next][Next.js]][Next-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
